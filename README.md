@@ -23,6 +23,7 @@ Usage: python3 wanghong.py [spider_womiyouxuan_actors|spider_yixia_videos|spider
 
 ### 已实现对以下直播类网站的数据爬取:
 * 花椒(http://www.huajiao.com/)
+
 * 一下(http://www.yixia.com/u/paike_oq7pzk336s)
 ```
 ### 访问主播页面，从该页面获取到suid和主播个人信息
